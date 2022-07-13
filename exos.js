@@ -74,5 +74,5 @@ console.log(ex5(19, [1, 8, 10, 21]));
 
 // Exercice 6
 console.log("*****************************************");
-console.log("Exercice 5 (Sujet1) : 1 passage");
+console.log("Exercice 5 (Sujet2) : 1 passage");
 console.log("???????");
